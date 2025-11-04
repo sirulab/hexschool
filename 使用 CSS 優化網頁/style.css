@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+    font-family: Verdana;
+}
+h2{
+    border-left: 5px solid red;
+    border-bottom: 5px solid red;
+    font-family: Verdana;
+}
+li{
+    font-family: Verdana;
+}
+.line-through{
+    text-decoration: line-through;
+}
+a{
+    color:red;
+    text-decoration: underline;
+    font-family: Verdana;
+}
+img{
+    border: 5px solid grey;
+}
+img:hover{
+    border: 5px solid pink;
+}
